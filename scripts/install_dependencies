@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo mkdir /home/ubuntu/amitkr.txt
+"Hello World" > amitkr.txt
+
