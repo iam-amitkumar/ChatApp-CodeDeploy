@@ -1,4 +1,5 @@
 #!/bin/bash
+git clone https://github.com/iam-amitkumar/ChatApp.git
 sudo mkdir /home/ubuntu/amitkr.txt
 "Hello World" > amitkr.txt
 
