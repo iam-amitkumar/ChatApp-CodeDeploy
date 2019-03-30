@@ -1,8 +1,8 @@
 version: 0.0
 os: linux
 files:
-  - source: /home/ubuntu/ChatApp
-    destination: /home/ubuntu/
+  - source: /var/www/html/index.html
+    destination: /var/www/html/
 # permissions:
 #   - object: /var/www/html/
 #     owner: root
